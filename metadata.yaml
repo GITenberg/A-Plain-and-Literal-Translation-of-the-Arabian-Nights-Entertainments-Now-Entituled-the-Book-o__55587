@@ -1,5 +1,5 @@
 _repo: A-Plain-and-Literal-Translation-of-the-Arabian-Nights-Entertainments-Now-Entituled-the-Book-o__55587
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Burton, Richard Francis, Sir
@@ -12,7 +12,12 @@ contributor:
     gutenberg_agent_id: '898'
     url: http://www.gutenberg.org/2009/agents/898
     wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+covers:
+- cover_type: archival
+  image_path: 55587-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55587#A-Plain-and-Literal-Translation-of-the-Arabian-Nights-Entertainments-Now-Entituled-the-Book-o_
 gutenberg_issued: '2017-09-20'
 gutenberg_type: Text
 identifiers:
